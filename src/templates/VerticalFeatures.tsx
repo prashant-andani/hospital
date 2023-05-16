@@ -36,8 +36,8 @@ const VerticalFeatures = () => (
             <li>
               <div className="flex items-center gap-x-6">
                 <img
-                  className="h-16 w-16 rounded-full"
-                  src="/assets/images/revanasiddappa_bhosgi.png"
+                  className="h-20 w-20 rounded-full"
+                  src="/assets/images/revanasiddappa_bhosgi.jpeg"
                   alt=""
                 />
                 <div>

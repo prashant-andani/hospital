@@ -31,7 +31,7 @@ const Hero = () => (
             <span className="text-primary-500">{AppConfig.site_name}</span>
           </>
         }
-        description="One of the renowned Maternity Hospitals in Kalaburagi"
+        description="Goal of our treatment is to adhere to natural process until there is an absolute requirement of scientific intervention."
         button={
           <Link href="">
             <a></a>
@@ -43,9 +43,9 @@ const Hero = () => (
         title={<></>}
         description={
           <>
-            Call{' '}
-            <a href="tel:6031112298">
-              <strong>084722 25098</strong>{' '}
+            Call at{' '}
+            <a href="tel:9916116698">
+              <strong>9916116698</strong>{' '}
             </a>
             for appointment
           </>
